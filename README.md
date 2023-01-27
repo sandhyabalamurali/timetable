@@ -89,6 +89,7 @@ Execute the program
 
 # OUPUT :
 ![OUTPUT](./images/timetable1.png)
+![2023-01-27 (9)](https://user-images.githubusercontent.com/115525118/215163212-1c51d9da-b15a-4163-a897-9fb775393385.png)
 
 
 
